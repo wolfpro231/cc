@@ -1,0 +1,6 @@
+owner=399647183504146442
+prefix=K
+game= Khelp _ Kplay
+stayinchannel=true
+songinstatus=false
+token=NTU0NDI2MzM3NzMzOTAyMzcx.XNrrzg.o-CedIAWLujS4YYgQpLNgXyi8mQ
